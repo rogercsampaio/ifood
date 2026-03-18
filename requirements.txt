@@ -16,4 +16,5 @@ streamlit>=1.25.0
 #urllib3
 wordcloud
 sentence_transformers==5.2.3
+translate
 detoxify==0.5.2 # em observação
