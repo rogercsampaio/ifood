@@ -1,0 +1,6 @@
+-- Exemplos de produtos
+INSERT INTO produto (nome, categoria, url_foto, preco)
+VALUES
+("Banana", "frutas", "url_img_desconhecida", 5.50),
+("Maçã", "frutas", "url_img_desconhecida", 7.00),
+("Laranja", "frutas", "url_img_desconhecida", 6.00);
